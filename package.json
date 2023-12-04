@@ -10,7 +10,7 @@
     "keywords": [
       "settigns"
     ],
-    "author": "muthar",
+    "author": "fariha",
     "license": "ISC",
     "dependencies": {
       "body-parser": "^1.20.2",
